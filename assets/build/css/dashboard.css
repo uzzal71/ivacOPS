@@ -1,0 +1,49 @@
+.content1{
+	border:1px solid #F7F7F7;
+	height: 150px;
+	background-color: #16a085;
+}
+.content2{
+	border:1px solid #F7F7F7;
+	height: 150px;
+	background-color: #27ae60;
+}
+.content3{
+	border:1px solid #F7F7F7;
+	height: 150px;
+	background-color: #8e44ad;
+}
+.icon_setting{
+	float: left;
+}
+.icon_setting img{
+	margin-top: 35px;
+	margin-left: 10px;
+	border-right: 1px solid #f7f7f7e8;
+	padding: 10px;
+}
+.info_icon_right{
+	float: left;
+	margin-top: 40px;
+	margin-left: 10px;
+}
+
+.info_icon_right p{
+	/*color: #f7f7f7e8;*/
+	font-size: 16px;
+	letter-spacing: 0.5px;
+	color:rgba(255, 255, 255, 1);
+}
+
+.center_icon_right{
+	float: left;
+	margin-top: 60px;
+	margin-left: 10px;
+}
+
+.center_icon_right p{
+	/*color: #f7f7f7e8;*/
+	font-size: 16px;
+	letter-spacing: 0.5px;
+	color:rgba(255, 255, 255, 1);
+}
